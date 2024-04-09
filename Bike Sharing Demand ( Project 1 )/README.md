@@ -8,9 +8,10 @@ To achieve this, I employed the Amazon AutoML library, Autogluon, which facilita
 
 ![6cf479ad-2008-4235-a2d6-cc7fc9c4bda7](https://github.com/CanKuralK/AWS_AI-ML_Scholarship/assets/16454824/efa930ed-b697-460d-9e22-c065b82ba1f2)
 
-Through this analysis, I discovered distinct trends that underscore the impact of weather conditions, whether it's a workday or holiday, and the time of day on bike rental patterns. These insights were visually represented in a series of plots, enhancing the understanding of the data's underlying patterns. .
+Through this analysis, I discovered distinct trends that underscore the impact of weather conditions, whether it's a workday or holiday, and the time of day on bike rental patterns. These insights were visually represented in a series of plots, enhancing the understanding of the data's underlying patterns.
 
 ![image](https://github.com/CanKuralK/AWSUdacity_AI-ML_Scholarship/assets/16454824/5cd8e936-7290-4ced-8cd1-526c915cc7cb)
+
 The effects of time of day on bike rental demand.
 
 ![image](https://github.com/CanKuralK/AWSUdacity_AI-ML_Scholarship/assets/16454824/b4dd80af-435f-43b7-8d14-5f2d721173e6)
