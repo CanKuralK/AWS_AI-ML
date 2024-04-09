@@ -1,8 +1,8 @@
-Projects Overview:
-Deploy and monitor a machine learning workflow for Image Classification
-AWS Machine Learning Engineer Nanodegree
-Overview
-This project is a part of the Assessment in the Udacity's AWS Machine Learning Engineer Nanodegree Program.
+This repository showcases the projects in AWS/Udacity AI and ML Scholarship.
 
-Getting Started
-Proceed with the project within the jupyter notebook :https://github.com/CanKuralK/AWS_AI-ML/blob/main/Scones%20Unlimited%20(%20Project%204%20)/Scones%20UNLIMITED.ipynb
+Projects Showcase skills obtained in navigating AWS cloud platform and applications of machine learning. 
+
+Bike sharing demand forecasting (Regression with tabular data)
+MNIST Image Classification using simple CNNs and MLPs.
+Landmark Classifications using Computer Vision deep learning models.
+Scones unlimited (Image Classification) :  Model deployment and event driven applications using AWS Lambda and step functions.
